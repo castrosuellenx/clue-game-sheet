@@ -19,8 +19,6 @@ I’m still setting up the foundations of the app, so this README tracks my prog
 - [ ] `/accusations` — **Failed accusations list**
 - [ ] `/accusations/new` — **Add accusation form**
 
----
-
 ## 🧱 Tech Stack
 - **Next.js 16.0.3** (App Router)
 - **React 19.2.0**
@@ -32,16 +30,12 @@ I’m still setting up the foundations of the app, so this README tracks my prog
 - **Next.js built-in i18n** (localization)
 - **ESLint & Prettier** (code quality)
 
----
-
 ## 🎯 Project Goals
 - Apply strong attention to detail, pixel-perfect UI, polished UX, and strong accessibility  
 - Build a clean and intuitive interface for tracking Clue game information  
 - Explore structured data for players, cards, turns, and accusations  
 - Demonstrate modern React patterns and component architecture  
 - Keep everything local using **Local Storage** (no backend for now)
-
----
 
 ## 🗂️ Planned Features
 - ✔ Configurable card names  
@@ -54,8 +48,6 @@ I’m still setting up the foundations of the app, so this README tracks my prog
 - ⏳ Import/export sheet state 
 - ⏳ Dark mode toggle
 
----
-
 ## 🤔 Why This Project?
 This app is not just a technical demo — it’s personal.
 
@@ -66,12 +58,8 @@ This app is not just a technical demo — it’s personal.
 
 It’s a perfect project to showcase my frontend strengths while solving a real problem I actually care about.
 
----
-
 ## 📌 License
 MIT — feel free to use this project as inspiration or reference.
-
----
 
 ## 👤 Author
 Suellen Castro
