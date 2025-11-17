@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🕵️‍♂️ Clue Notes Sheet (WIP)
+A modern **Next.js** application that works as a notes sheet for the board game **Clue**, inspired by the digital version available on Steam.
 
-## Getting Started
+This project is part of my portfolio and focuses on **clean UI, good UX, and solid frontend best practices**.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚧 Status: Work in Progress
+I’m still setting up the foundations of the app, so this README tracks my progress page-by-page.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Pages Checklist
+- [ ] `/` — **Home**
+- [ ] `/settings` — **Settings** (language + card names customization)
+- [ ] `/players` — **Player list**
+- [ ] `/players/new` — **Add player form**
+- [ ] `/sheet` — **Main notes sheet**
+- [ ] `/turns` — **Turns list**
+- [ ] `/turns/add` — **Add turn form**
+- [ ] `/accusations` — **Failed accusations list**
+- [ ] `/accusations/new` — **Add accusation form**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧱 Tech Stack
+- **Next.js 16.0.3** (App Router)
+- **React 19.2.0**
+- **TypeScript**
+- **Tailwind CSS** (UI styling)
+- **Zustand** (state management)
+- **React Hook Form** (form handling)
+- **Zod** (schema validation)
+- **Next.js built-in i18n** (localization)
+- **ESLint & Prettier** (code quality)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Project Goals
+- Apply strong attention to detail, pixel-perfect UI, polished UX, and strong accessibility  
+- Build a clean and intuitive interface for tracking Clue game information  
+- Explore structured data for players, cards, turns, and accusations  
+- Demonstrate modern React patterns and component architecture  
+- Keep everything local using **Local Storage** (no backend for now)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🗂️ Planned Features
+- ✔ Configurable card names  
+- ✔ Multiple languages  
+- ✔ Players list & setup  
+- ✔ Note-taking sheet with editable cells  
+- ✔ Turn history  
+- ✔ Failed accusation tracking  
+- ✔ Local Storage persistence  
+- ⏳ Import/export sheet state 
+- ⏳ Dark mode toggle
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🤔 Why This Project?
+This app is not just a technical demo — it’s personal.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Clue is one of my favorite games.** I love to play it, especially with my friends.
+- **I dislike the traditional paper sheet.** The online version's sheet is much cleaner, faster to use, and easier to track during the game — and I wanted something like that for the physical version.
+- **My friends struggle with the paper sheet too.** It often makes the game messy or slows things down, so it’s hard to convince them to play.  
+  Building a digital sheet is my way to fix that and make the game more accessible for everyone at the table.
+
+It’s a perfect project to showcase my frontend strengths while solving a real problem I actually care about.
+
+---
+
+## 📌 License
+MIT — feel free to use this project as inspiration or reference.
+
+---
+
+## 👤 Author
+Suellen Castro
+Full-Stack Software Engineer - front-end focused - Proficient in coding pixel-perfect, responsive UIs
