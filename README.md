@@ -63,4 +63,7 @@ MIT — feel free to use this project as inspiration or reference.
 
 ## 👤 Author
 Suellen Castro
-Full-Stack Software Engineer - front-end focused - Proficient in coding pixel-perfect, responsive UIs
+
+Full-Stack Software Engineer - front-end focused
+
+Proficient in coding pixel-perfect, responsive UIs
