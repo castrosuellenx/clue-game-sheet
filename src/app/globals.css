@@ -10,6 +10,12 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-clue-scarlett: #B72820;
+  --color-clue-mustard: #F7C729;
+  --color-clue-green: #0D7D35;
+  --color-clue-plum: #752258;
+  --color-clue-white: #B5B5B5;
+  --color-clue-peacock: #397BC5;
 }
 
 @media (prefers-color-scheme: dark) {
